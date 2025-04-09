@@ -1,4 +1,4 @@
-class Macperf < Formula
+class sheldon < Formula
   desc "Performance monitoring tool for Apple Silicon Macs"
   homepage "https://github.com/rv97/sheldon"
   url "https://github.com/rv97/sheldon/releases/download/v0.1.0/sheldon-v0.1.0-aarch64-apple-darwin.tar.gz"
